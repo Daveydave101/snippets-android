@@ -12,3 +12,5 @@ We love contributions! See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
 [gh-actions]: https://github.com/firebase/snippets-android/actions
 [gh-actions-badge]: https://github.com/firebase/snippets-android/workflows/Android%20CI/badge.svg
+Can you help me write a function? I have the requirements and need assistance with implementation.
+
